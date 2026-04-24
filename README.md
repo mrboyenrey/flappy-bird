@@ -2,6 +2,12 @@
 
 A browser-based Flappy Bird clone built with plain HTML, CSS, and the Canvas API. Everything lives in one file, so the project is easy to run, inspect, and extend.
 
+## Play Online
+
+Play the live version here:
+
+https://mrboyenrey.github.io/flappy-bird/
+
 ## Project Layout
 
 ```text
