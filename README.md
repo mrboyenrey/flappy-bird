@@ -2,6 +2,15 @@
 
 A browser-based Flappy Bird clone built with plain HTML, CSS, and the Canvas API. Everything lives in one file, so the project is easy to run, inspect, and extend.
 
+## Recent Improvements
+
+- Persistent best score saved in `localStorage`
+- Progressive difficulty scaling (faster pipes and tighter gaps over time)
+- Pause and resume support with `P`
+- Quick restart support with `R`
+- Flap and collision particle effects for better feedback
+- Improved responsive canvas sizing for smaller screens
+
 ## Play Online
 
 Play the live version here:
@@ -43,6 +52,8 @@ Then open the local URL shown in the terminal.
 | `Enter` | Flap |
 | `ArrowUp` | Flap |
 | `ArrowDown` | Flap |
+| `P` | Pause / Resume |
+| `R` | Restart (when not playing) |
 | Mouse click | Flap |
 | Touch / tap | Flap |
 
